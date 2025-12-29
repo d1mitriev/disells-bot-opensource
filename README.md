@@ -1,4 +1,4 @@
-# template discord bot
+
 
 # Strating bot for server:
 ```
